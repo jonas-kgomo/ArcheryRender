@@ -5,4 +5,4 @@ Packages used in rendering Amice Lis project on archery.
  
  
  **Rendering Pipeline**
- url : http://blogs.unity3d.com/wp-content/uploads/2018/03/image8.png*
+ url : http://*blogs.unity3d.com/wp-content/uploads/2018/03/image8.png*
