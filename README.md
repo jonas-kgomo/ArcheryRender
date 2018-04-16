@@ -1,2 +1,5 @@
 # ArcheryRender
-Packages used in rendering Amis Lis project on archery.
+Packages used in rendering Amice Lis project on archery.
+
+ >Shaders
+ >>Rendering Pipeline
