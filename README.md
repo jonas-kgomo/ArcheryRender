@@ -8,8 +8,8 @@ Packages used in rendering Amice Lis project on archery. Unity 2018
 * Hair Shader
  
  ## Rendering Pipeline
- > HDR
- > 70% of Rendering Pipeline is optimized with models and textures. 
+ 
+Rendering Pipeline is optimized with models and textures. 
    - Textures : Substance Designer and Substance.
    - Models : Symplygon
    - Lightning : Post production, Box 2 
