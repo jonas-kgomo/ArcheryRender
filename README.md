@@ -5,6 +5,8 @@ Packages used in rendering Amice Lis project on archery. Unity 2018
  
  Grass and Wind Shaders
  Foliage shader
+ Hair Shader
+ 
  ## Rendering Pipeline
  https://cartrdge.com/maxgit/black-forest
  
