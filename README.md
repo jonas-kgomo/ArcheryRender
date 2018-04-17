@@ -1,5 +1,5 @@
 # ArcheryRender
-Packages used in rendering Amice Lis project on archery.
+Packages used in rendering Amice Lis project on archery. Unity 2018 
 
  **Shaders**
  >Unity 5 Photogrammetry plus Uber Shader
