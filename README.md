@@ -20,3 +20,5 @@ Rendering Pipeline is optimized with models and textures.
 Using the Skyrim and Postmontbleau models and trees 
 
 ### VR WORKS
+VR graphics optimisation: 
+ - VR SLI, Multi-res Shading, Lens Matched Shading, and Single Pass Stereo.
