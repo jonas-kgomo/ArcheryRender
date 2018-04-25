@@ -1,9 +1,10 @@
 # ArcheryRender
 Packages used in rendering Amice Lis project on archery. Unity 2018 
-## Shaders
- **Unity 5 Photogrammetry plus Uber Shader**
+## Assets
+ **Post-Processing**
  
-* Grass and Wind Shaders
+* Obscurance is a screen-space ambient obscurance (SSAO) image effect for Unity.
+Works better with Deffered rendering
 * Foliage shader
 * Hair Shader
  
@@ -15,10 +16,7 @@ Rendering Pipeline is optimized with models and textures.
    - Lightning : Post production, Box 2 
  https://cartrdge.com/maxgit/black-forest
  
- ![Image of Sunset](https://blogs.unity3d.com/wp-content/uploads/2018/03/image8.png)
-> Assets 
-Using the Skyrim and Postmontbleau models and trees 
 
-### VR WORKS
-VR graphics optimisation: 
- - VR SLI, Multi-res Shading, Lens Matched Shading, and Single Pass Stereo.
+> Assets 
+models and trees 
+
