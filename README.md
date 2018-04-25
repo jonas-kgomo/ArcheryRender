@@ -2,7 +2,7 @@
 Packages used in rendering Amice Lis project on archery. Unity 2018 
 ## Assets
  **Post-Processing**
-![alt text](/ArcheryRender/blob/master/okayman.jpg "Logo Title Text 1")
+![alt text](https://github.com/jonas-kgomo/ArcheryRender/blob/master/okayman.jpg "Logo Title Text 1")
 * Obscurance is a screen-space ambient obscurance (SSAO) image effect for Unity.
 Works better with Deffered rendering
 * Foliage shader
