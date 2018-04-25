@@ -7,7 +7,7 @@ Packages used in rendering Amice Lis project on archery. Unity 2018
 Works better with Deffered rendering
 * Foliage shader
 * Hair Shader
- [alt text](http://ArcheryRender/okayman.jpg)
+ [alt text](https://github.com/jonas-kgomo/ArcheryRender/okayman.jpg)
  ## Rendering Pipeline
  
 Rendering Pipeline is optimized with models and textures. 
