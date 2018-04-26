@@ -12,7 +12,7 @@ The original technique was described by L. McIntosh. The shader in this package 
 * Tonemapping & Color Grading 
 * Anti-Aliasing  : I used SIGGRAPH proposal of SMAA : Sub-pixel Morphological Anti-Aliasing , a shader-based anti-aliasing algorithm created  by Jorge et.al https://github.com/iryoku/smaa.
 Works with the deferred & forward rendering paths, in gamma or linear color space, with Directx 9, Directx 11 and OpenGL targets.
-
+Now added to *The Unity Cinematic Image Effects* http://u3d.as/mHd
  ## Shaders
  I used the Amplify Shader Editor, a visual programming tool for making shaders
  The grass used has high LOD
