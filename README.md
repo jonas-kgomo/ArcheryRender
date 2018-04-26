@@ -7,6 +7,7 @@ We used the Native Post-Processing Stack from Unity . Specifically we ignored so
 
 * *Obscurance* is a screen-space ambient obscurance (SSAO) image effect for Unity.
 Works better with Deffered rendering
+* *Aura* https://github.com/raphael-ernaelsten/Aura
 * *Hex Bokeh* , Blur : is an image effect for Unity which simulates depth of field with hexagonal apertures.
 The original technique was described by L. McIntosh. The shader in this package is a straightforward implementation of his technique with a few minor tweaks.
 * *Tonemapping & Color Grading 
