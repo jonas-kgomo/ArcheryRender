@@ -10,7 +10,8 @@ Works better with Deffered rendering
 * *Aura* https://github.com/raphael-ernaelsten/Aura
 * *Hex Bokeh* , Blur : is an image effect for Unity which simulates depth of field with hexagonal apertures.
 The original technique was described by L. McIntosh. The shader in this package is a straightforward implementation of his technique with a few minor tweaks.
-* *Tonemapping & Color Grading 
+* *Tonemapping & Color Grading*
+*Global Illumniation* from https://github.com/sonicether/SEGI
 *BLOOM* : a local simulation of the light scattering into the surrounding medium
 * *Anti-Aliasing*  : I used SIGGRAPH proposal of SMAA : Sub-pixel Morphological Anti-Aliasing , a shader-based anti-aliasing algorithm created  by Jorge et.al https://github.com/iryoku/smaa.
 Works with the deferred & forward rendering paths, in gamma or linear color space, with Directx 9, Directx 11 and OpenGL targets.
